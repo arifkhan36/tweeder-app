@@ -1,0 +1,7 @@
+\c tweedr_dev
+DROP TABLE IF EXISTS tweedr;
+
+CREATE TABLE IF NOT EXISTS tweedr(
+  id BIGSERIAL PRIMARY KEY,
+  tweed VARCHAR(1024)
+);
