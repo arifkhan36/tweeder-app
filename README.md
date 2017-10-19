@@ -1,6 +1,3 @@
-# HOMEWORK: Tweedr!!
-
-Let's make a cool new app called ***TWEEDR***!! Not Twitter, geez... 🙄
 
 An Express backend has already been provided for you, because we love you all very much. You will just need to create a React frontend for it. (You shouldn't need to modify anything in the Express backend, except to connect the React frontend. The model, controllers, etc. are all set up already.)
 
@@ -55,11 +52,3 @@ Your React/Express app should:
     - `Tweed`: Holds one individual tweed
     - Any other components you see fit!
 
-## 🚀 Your homework submission should include:
-
-- ONE issue ticket created on this repo.
-- In the title of your ticket, include the names of ALL team members
-- A link to your project
-- Completion, comfort, wins, losses, questions... you know the drill.
-
-## This homework is due 🚨 11PM ON SUNDAY NIGHT 🚨
